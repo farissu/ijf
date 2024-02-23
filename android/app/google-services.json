@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "538929974877",
+    "project_id": "ijf-mobile",
+    "storage_bucket": "ijf-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538929974877:android:2c8178a4c8a51fe6e1c7b4",
+        "android_client_info": {
+          "package_name": "com.mycompany.EduhubIJF"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538929974877-gnjn1plf2phlk169ug7ul3md9ort2tm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.EduhubIJF",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "538929974877-ci3n6q5a062lon76v95su7fdirv79b87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8uupV1OeFFpU0bzAwg2KsGfze3bP0xjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538929974877-ci3n6q5a062lon76v95su7fdirv79b87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538929974877-04sf4dtuadu0ti5itt7fi9i2fca8018u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.ijfmobilefaristanpai"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538929974877:android:1bc8249855b059b6e1c7b4",
+        "android_client_info": {
+          "package_name": "com.mycompany.ijfmobilefaristanpai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538929974877-nnm10m7d7f68od8kj65ff9dh98dgtthq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.ijfmobilefaristanpai",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "538929974877-ci3n6q5a062lon76v95su7fdirv79b87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8uupV1OeFFpU0bzAwg2KsGfze3bP0xjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538929974877-ci3n6q5a062lon76v95su7fdirv79b87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538929974877-04sf4dtuadu0ti5itt7fi9i2fca8018u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.ijfmobilefaristanpai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
